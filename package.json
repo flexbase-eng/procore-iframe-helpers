@@ -3,7 +3,7 @@
   "author": "Procore",
   "homepage": "https://github.com/flexbase-eng/procore-iframe-helpers",
   "version": "0.0.3",
-  "main": "dist/index.js",
+  "main": "dist/ProcoreIframeHelpers.js",
   "typings": "dist/index.d.ts",
   "scripts": {
     "build": "webpack"
