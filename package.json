@@ -1,7 +1,7 @@
 {
-  "name": "@procore/procore-iframe-helpers",
+  "name": "@flexbase-eng/procore-iframe-helpers",
   "author": "Procore",
-  "homepage": "https://github.com/procore/procore-iframe-helpers",
+  "homepage": "https://github.com/flexbase-eng/procore-iframe-helpers",
   "version": "0.0.1",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
